@@ -1,14 +1,14 @@
 # Hi, I'm Yuki Sasai 👋
 
-### Global AI Systems Builder
+### Global AI Product Engineer
 
-I design and build AI-powered products from system design to deployment.
+I build AI-powered systems from system design to deployment.
 
 ---
 
 ## About
 
-I'm a software engineer based in Japan, passionate about building AI-powered products that solve real-world problems.
+I'm a software engineer based in Japan, passionate about designing and building AI-powered products that solve real-world problems.
 
 My focus is on:
 
